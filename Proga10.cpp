@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    int a;
+    int a1; //Изменена переменная
     int b;
     int c;
 
